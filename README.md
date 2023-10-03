@@ -5,7 +5,6 @@
 
 #### I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃
 
-All of my projects are available at [https://hardk8140.github.io/](https://hardik8140.github.io/)
 [Portfolio](https://hardik8140.github.io/)
 
 ### 🤝 Connect with me
