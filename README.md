@@ -5,7 +5,7 @@
 
 #### I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃
 
-
+<p><a href="https://hardik8140.github.io/" target="_blank"/>Portfolio<p>
 ### 🤝 Connect with me
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hardik8140.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-gajera-7563b7254/)
