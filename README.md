@@ -3,7 +3,7 @@
 
 ## An aspiring full-stack web developer 💻
 
-#### I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃
+#### Greetings! I'm Hardik Gajera, a skilled Full stack developer with a passion for creating efficient and user-friendly web applications. With expertise in both Frontend and Backend technologies, I thrive on bringing digital vision to life. 😃
 
 ### 🤝 Connect with me
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hardik8140.github.io/)
